@@ -73,14 +73,14 @@ hr {
   margin: 10px 0px 10px 0px;
 }
 .project1 {
-  background-image: url('subway.gif');
+  background-image: url('assets/subway.gif');
 }
 .project2 {
-  background-image: url('airport.jpg');
+  background-image: url('assets/airport.jpg');
   background-position: 43% 40%;
 }
 .project3 {
-  background-image: url('intelligence.jpg');
+  background-image: url('assets/intelligence.jpg');
 }
 .icons img {
 }
